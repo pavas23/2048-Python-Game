@@ -21,5 +21,5 @@ Press 'w' key to move up, 's' to move down, 'a' to move left and
     
 ## Game Preview
 
-![App Screenshot](https://user-images.githubusercontent.com/97559428/180383040-97d414cc-d69d-43e3-b4a6-3c1574c3e1b6.png)
+![App Screenshot](https://user-images.githubusercontent.com/97559428/180385794-76521603-5e3a-494c-ba68-b1d708e2079e.png)
 

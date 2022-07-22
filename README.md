@@ -13,16 +13,11 @@ To play this game you should have Tkinter library which
 comes whith Python 2 and then
 run the following command in your terminal.
 
-Press 'w' key to move up, 's' to move down, 'a' to move left and 
-'d' to move right
-
-
-'
-
-
 ```bash
 python2 2048.py
 ```
+Press 'w' key to move up, 's' to move down, 'a' to move left and 
+'d' to move right
     
 ## Game Preview
 

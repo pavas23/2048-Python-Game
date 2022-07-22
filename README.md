@@ -19,5 +19,5 @@ python2 2048.py
     
 ## Game Preview
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://user-images.githubusercontent.com/97559428/180383040-97d414cc-d69d-43e3-b4a6-3c1574c3e1b6.png)
 
